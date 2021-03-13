@@ -1,0 +1,442 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+ 
+
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  header{
+    padding-top: 30px !important;
+
+  }
+  .banner{
+    height: 45vh !important;
+    padding-top: 0px !important;
+  }
+  .banner h1{
+    margin-right: 28px !important;
+    font-size: 24px !important;
+  }
+  
+   .roy{
+    font-size: x-small !important;
+  }
+  .banner p{
+    font-size: x-small !important;
+    margin-right: 116px !important;
+    padding-bottom: 0px !important;
+  }
+  .btn-outline-success{
+    padding: 5px 5px !important;
+  }
+  .btn-outline-danger{
+    padding: 5px 5px !important;
+
+  }
+  .clint-logo {
+    padding: 20px 0px !important;
+  }
+  .img-fluid{
+    max-width: 83% !important;
+  }
+   .feature-1{
+    padding: 10px 0px !important;
+   }
+  .feature-1 .roy{
+    text-align: center !important;
+  }
+  .feature-1 .right{
+    text-align: center !important;
+  }
+  .feature-1 .right h2{
+    margin-right: 1px !important;
+  }
+  .feature-2{
+    padding:10px 0px !important;
+    text-align: center !important;
+  }
+  .feature-2 h2{
+    font-size: 25px !important;
+  }
+  .feature-2 .right p{
+    margin-left: 6px !important;
+    margin-top: 21px !important;
+    font-size: 14px !important;
+
+  }
+  .feature-3{
+    text-align: center !important;
+  }
+  .feature-3 .list-1 p{
+    margin-right: 0px !important;
+    font-size: 14px !important;
+
+  }
+  .feature-3 .list-2 p{
+    margin-right: 0px !important;
+    font-size: 14px !important;
+
+  }
+  .feature-3 .list-3 p{
+    margin-right: 0px !important;
+    font-size: 14px !important;
+
+  }
+  .feature-4{
+    padding: 0px 0px !important;
+  }
+  .feature-4 .roy{
+    text-align: center !important;
+  }
+  .feature-4 .left h2{
+    font-size: 23px !important;
+  }
+  .feature-4 .left{
+    padding-left: 10px !important;
+    padding-top: 32px !important;
+  }
+  .feature-4 .left button{
+        padding: 7px 19px !important;
+  }
+  .feature-5 .center h2{
+    margin: 11px 19px !important;
+    font-size: 24px !important;
+  }
+  .feature-5 .center p{
+    margin: 11px 5px !important;
+
+  }
+  .feature-6{
+    padding:5px 0px !important;
+
+  }
+  .feature-6 p{
+    margin: 25px 0px !important;
+    font-size: 14px !important;
+
+  }
+  .feature-7 h2{
+    margin-right: 0px !important;
+    font-size: 29px !important;
+  }
+  .feature-7 button{
+    padding: 8px 31px !important;
+  }
+  .feature-8{
+    padding: 5px 0px  !important;
+  } 
+  .feature-8 .title h1{
+    margin: 0px 0px  !important;
+    font-size: 30px !important;
+  }
+  .feature-8 .title p{
+    margin: 10px 0px  !important;
+
+  }
+  .offset-2{
+    margin-left: 0%  !important;
+
+  }
+  .feature-10{
+    padding: 10px 0px !important;
+  }
+  .feature-10 p{
+    font-size: 14px !important;
+
+
+  }
+  .feature-10 h1{
+        font-size: 27px !important;
+        padding: 20px 0px  !important;
+  }
+  .feature-10 h4{
+    padding-bottom: 5px !important;
+  }
+  .feature-11{
+    padding: 5px 0px  !important;
+  }
+  .feature-11 p{
+    margin: 10px 0px !important;
+    font-size: 14px !important;
+  }
+  .feature-11 h1{
+    font-size: 32px !important;
+  }
+  .feature-11 .sagar p{
+     font-size: 11px !important;
+
+  }
+  .feature-12{
+    padding: 10px 0px  !important;
+
+  }
+  .feature-12 h1{
+    font-size: 29px !important;
+
+
+  }
+  .feature-12 p{
+     font-size: 14px !important;
+
+
+  }
+  .feature-12 .roy img{
+    text-align: center !important;
+    width: 40% !important;
+
+  }
+  .feature-13{
+    padding: 20px 0px !important;
+  }
+  .feature-13 p{
+     font-size: small !important;
+     padding: 10px 0px !important;
+
+  }
+  .feature-8 .title p{
+     font-size: 14px !important;
+
+  }
+  .feature-1 .right p{
+    font-size: 14px !important;
+
+
+  }
+  .feature-1 .right h2{
+    font-size: 29px !important;
+
+
+  }
+  .item-3 h4{
+     padding: 15px 0px !important;
+
+
+  }
+  .item-2 h4{
+     padding: 15px 0px !important;
+
+
+  }
+  .item-3 h4{
+     padding: 15px 0px !important;
+
+
+  }
+  .feature-4 .left p{
+    font-size: 14px !important;
+
+
+  }
+  .feature-5 .center p{
+    font-size: 14px !important;
+
+
+  }
+  .feature-7 .row p{
+    font-size: 14px !important;
+    
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
